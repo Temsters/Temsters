@@ -9,8 +9,8 @@ Software Development student who builds practical web, mobile, and data-driven a
 
 ### GBTAC Capstone – Smart Building Data Analytics Platform
 - **Technologies:** SQL, React, APIs, Dashboards  
-- **Status:** In Progress (2025–2026)  
-- **Description:** Collaborating with GBTAC on a smart building analytics platform supporting sustainability and applied research. Includes data visualization, forecasting, and interactive dashboards.  
+- **Status:** In Progress (Sept 2025 – April 2026)  
+- **Description:** Building a web-based smart building analytics platform for SAIT’s Green Building Technology Access Centre (GBTAC) that integrates SQL-based building data with external weather APIs. The platform provides interactive dashboards, trend analysis, comparative reporting, and predictive insights to support energy optimization, sustainability goals, and applied research use cases.
 - **Repo / Demo:** [GitHub Prototype Repo](https://github.com/SoftDevCLF/capstone-prototype)
 
 ---
